@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelusm2003&layout=compact&hide=html" alt="angelusm2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelusm2003&show_icons=true" alt="angelusm2003" /></p>
+
 
 
